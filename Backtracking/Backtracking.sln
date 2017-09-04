@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheKnightTour", "TheKnightTour\TheKnightTour.csproj", "{53ADD5EB-519C-4527-845C-46B53EDA046F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RatInAMaze", "RatInAMaze\RatInAMaze.csproj", "{F1B32CB8-D8B2-4221-BCEB-BBAFF9796FC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{53ADD5EB-519C-4527-845C-46B53EDA046F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53ADD5EB-519C-4527-845C-46B53EDA046F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53ADD5EB-519C-4527-845C-46B53EDA046F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B32CB8-D8B2-4221-BCEB-BBAFF9796FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B32CB8-D8B2-4221-BCEB-BBAFF9796FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B32CB8-D8B2-4221-BCEB-BBAFF9796FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B32CB8-D8B2-4221-BCEB-BBAFF9796FC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
